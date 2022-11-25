@@ -1,2 +1,0 @@
-# Date-Methods
-Java Script
